@@ -7,7 +7,7 @@ import { ServerComponent } from './server/server.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
     ServerComponent
   ],
   imports: [
